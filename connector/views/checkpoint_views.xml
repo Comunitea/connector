@@ -49,7 +49,7 @@
                 <button name="reviewed"
                     type="object"
                     class="oe_highlight"
-                    icon="kanban-apply"
+                    icon="fa-check"
                     states="need_review"
                     string="Reviewed"/>
             </tree>

@@ -2,7 +2,7 @@
 <odoo>
     <menuitem id="menu_connector_root"
         name="Connectors"
-        groups="group_connector_manager"/>
+        groups="group_connector_manager" web_icon="connector,static/description/icon.png"/>
 
     <menuitem id="menu_connector"
         name="Connectors"
